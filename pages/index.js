@@ -18,9 +18,13 @@ import AppScreen from "../components/AppScreen";
 import FAQ from "../components/FAQ";
 import Clients from "../components/Clients";
 import Testimonials from "../components/Testimonials";
+import Head from 'next/head';
 
 const HomePage = () => (
   <div>
+    <Head>
+      <meta name="description" content="Karma Pluss helps user in developing mental, emotional, physical strengths/ skills/ attributes while protecting nature by reducing Carbon Emissions and doing recycle of waste, unwanted items" />
+    </Head>
     <Preloader />
 
     <Layout pageTitle="Karma Pluss | Discover 'The Best' in You">
