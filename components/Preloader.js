@@ -31,7 +31,7 @@ const Preloader = () => {
           src={PreloaderImage}
           width="75"
           className="preloader__image"
-          alt=""
+          alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
         />
       </div>
     )

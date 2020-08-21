@@ -46,8 +46,8 @@
   .contact-one__image img {
     max-width: 100%;
   }
-  .contact-one .block-title h3 br,
-  .cta-two .block-title h3 br,
+  .contact-one .block-title h1 br,
+  .cta-two .block-title h1 br,
   .banner-one__video {
     display: none;
   }
@@ -213,10 +213,10 @@
     padding-left: 0;
     padding-top: 30px;
   }
-  .block-title h3 br {
+  .block-title h1 br {
     display: none;
   }
-  .block-title h3 {
+  .block-title h1 {
     white-space: normal;
   }
   .video-one__content {
@@ -363,8 +363,8 @@
     width: 45px;
     height: 45px;
   }
-  .cta-three h3,
-  .block-title h3 {
+  .cta-three h1,
+  .block-title h1 {
     font-size: 40px;
   }
   .video-one {
@@ -402,7 +402,7 @@
     display: none;
   }
 
-  .banner-one__content h3 {
+  .banner-one__content h1 {
     font-size: 50px;
     line-height: 1.2em;
   }
@@ -430,18 +430,18 @@
   .faq-accrodion .accrodion .accrodion-title h4 {
     font-size: 18px;
   }
-  .blog-one__content h3 {
+  .blog-one__content h1 {
     font-size: 22px;
     line-height: 1.4em;
   }
-  .cta-three h3,
-  .block-title h3 {
+  .cta-three h1,
+  .block-title h1 {
     font-size: 34px;
   }
 }
 
 @media (max-width: 375px) {
-  .banner-one__content h3 {
+  .banner-one__content h1 {
     font-size: 45px;
   }
   .video-one__btn {

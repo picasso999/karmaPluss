@@ -7,7 +7,7 @@ const BlogPost = (props) => {
     <Col lg={4} md={6} sm={12}>
       <div className="blog-one__single">
         <div className="blog-one__image">
-          <img src={props.postImage} alt="" />
+          <img src={props.postImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
         </div>
         <div className="blog-one__content">
           <div className="blog-one__circle"></div>
@@ -20,11 +20,11 @@ const BlogPost = (props) => {
                 <i className="far fa-comments"></i> {props.postCommentCount}
               </a>
             </div>
-            <h3>
+            <h1>
               <Link href={props.postLink}>
                 <a>{props.postTitle}</a>
               </Link>
-            </h3>
+            </h1>
           </div>
         </div>
       </div>

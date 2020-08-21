@@ -49,7 +49,7 @@ const Testimonials = (props) => {
             <div className="testimonials-one__thumb-carousel-wrap">
               <div className="testimonials-one__icon">
                 <div className="testimonials-one__icon-inner">
-                  <img src={TestiQoute} alt="" />
+                  <img src={TestiQoute} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
                 </div>
               </div>
               <div className="testimonials-one__thumb-carousel">
@@ -88,7 +88,7 @@ const Testimonials = (props) => {
                       The application has many amazing features that can help out people like me who loves to document my good deeds to know how far I have developed over years. It's a great way to control emitting CO2 while we know the cause for it. Thanks to the idea of healthy diet and check how much of my goods are organic and less carbon emitted production products, boosts me morally and mentally. Love to check out their beta version. 
                       </p>
 
-                      <h3 className="testimonials-one__title">Joe Kolmer</h3>
+                      <h1 className="testimonials-one__title">Joe Kolmer</h1>
                     </div>
                   </div>
                   <div className="swiper-slide">
@@ -97,7 +97,7 @@ const Testimonials = (props) => {
                       A lot food, plastic waste stays at home. Many times, my children throw many of their old toys even if they are in good condition, just because they got bored of them or something new came up in their games trend. Luckily, I can use Karma Pluss to solve my problems. I can recycle paper, plastic, metal, old things to local vendors. Can share extra food with poor people or bachelores nearby for free. I can also, exchange toys, items I have with other people for free or for certain price. Thanks to Karma Pluss app . Looking forward to try it soon.
                       </p>
 
-                      <h3 className="testimonials-one__title">Darrin Jenna</h3>
+                      <h1 className="testimonials-one__title">Darrin Jenna</h1>
                     </div>
                   </div>
                   <div className="swiper-slide">
@@ -106,7 +106,7 @@ const Testimonials = (props) => {
                         Connecting with nature is something I give outmost importance to. Karma Pluss really has something that fetches my attention for controlling global warming from just a use of my mobile. Finally! I got my guilt free to use Mobile without worrying to pollute the environment, and amazing thing about Carbon Offset methods is that, we have lots of options provided in Karma Pluss app. Want to try it out soon. 
                       </p>
 
-                      <h3 className="testimonials-one__title">Abdul Kalis</h3>
+                      <h1 className="testimonials-one__title">Abdul Kalis</h1>
                     </div>
                   </div>
                 </Swiper>

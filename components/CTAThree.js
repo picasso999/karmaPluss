@@ -9,12 +9,12 @@ import Cta3Shape2 from "../assets/images/shapes/cta-three-bg-1-2.png";
 const CTAThree = () => {
   return (
     <section className="cta-three" id="appLaunch">
-      <img src={Cta3Shape1} className="cta-three__bg-1" alt="" />
-      <img src={Cta3Shape2} className="cta-three__bg-2" alt="" />
+      <img src={Cta3Shape1} className="cta-three__bg-1" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
+      <img src={Cta3Shape2} className="cta-three__bg-2" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
       <Container className="text-center">
-        <h3>
+        <h1>
           Download our App to <br /> Experience Endless Possibilities
-        </h3>
+        </h1>
         <p>and you will be notified of our Karma Pluss app release coming January, 2021 </p>
         <div className="cta-three__btn-wrap">
         <Popup

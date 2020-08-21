@@ -6,7 +6,7 @@ import ContactImage from "../assets/images/resources/contact-1-1.jpg";
 const Contact = () => {
   return (
     <section className="contact-one" id="contactUs">
-      <img src={ContactBgShape} className="contact-one__bg-shape-1" alt="" />
+      <img src={ContactBgShape} className="contact-one__bg-shape-1" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
       <div className="container">
         <div className="row">
           <div className="col-lg-7">
@@ -51,7 +51,7 @@ const Contact = () => {
           >
             <div className="my-auto">
               <div className="contact-one__image">
-                <img src={ContactImage} alt="" />
+                <img src={ContactImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
               </div>
             </div>
           </div>

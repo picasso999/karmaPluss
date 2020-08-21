@@ -16,7 +16,7 @@ const BlogSidebar = () => {
         </form>
       </div>
       <div className="sidebar__single sidebar__post">
-        <h3 className="sidebar__title">Latest Posts</h3>
+        <h1 className="sidebar__title">Latest Posts</h1>
         <div className="sidebar__post-wrap">
           <div className="sidebar__post__single">
             <div className="sidebar__post-image">
@@ -57,7 +57,7 @@ const BlogSidebar = () => {
         </div>
       </div>
       <div className="sidebar__single sidebar__category">
-        <h3 className="sidebar__title">Categories</h3>
+        <h1 className="sidebar__title">Categories</h1>
         <ul className="sidebar__category-list">
           <li className="sidebar__category-list-item">
             <a href="#">Business</a>
@@ -80,7 +80,7 @@ const BlogSidebar = () => {
         </ul>
       </div>
       <div className="sidebar__single sidebar__tags">
-        <h3 className="sidebar__title">Tags</h3>
+        <h1 className="sidebar__title">Tags</h1>
         <ul className="sidebar__tags-list">
           <li className="sidebar__tags-list-item">
             <a href="#">Business,</a>

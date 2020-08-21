@@ -39,61 +39,61 @@ const Clients = (props) => {
       <Container>
         <Swiper className="brand-one__carousel" {...params}>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage1} alt="" />
+            <img src={BrandImage1} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage1} alt="" />
+            <img src={BrandImage1} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage1} alt="" />
+            <img src={BrandImage1} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage1} alt="" />
+            <img src={BrandImage1} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           {/* <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div> */}
         </Swiper>
       </Container>

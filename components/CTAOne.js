@@ -8,11 +8,11 @@ import CtaMoc1 from "../assets/images/resources/cta-1-moc-1.png";
 const CTAOne = () => {
   return (
     <section className="cta-one" id="AmazingApp">
-      <img src={CtaShape1} className="cta-one__bg-shape-1" alt="" />
-      <img src={CtaShape2} className="cta-one__bg-shape-2" alt="" />
+      <img src={CtaShape1} className="cta-one__bg-shape-1" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
+      <img src={CtaShape2} className="cta-one__bg-shape-2" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
       <div className="container">
         <div className="cta-one__moc wow fadeInLeft" data-wow-duration="1500ms">
-          <img src={CtaMoc1} className="cta-one__moc-img" alt="" />
+          <img src={CtaMoc1} className="cta-one__moc-img" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
         </div>
         <div className="row justify-content-end">
           <div className="col-lg-6">

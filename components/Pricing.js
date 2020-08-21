@@ -62,7 +62,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>RECYCLING</p>
-                    <h3>20%</h3>
+                    <h1>20%</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>$377 Billion by 2024</li>
                       <li>20%+ CAGR rate yearly wise</li>
@@ -83,7 +83,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>HEALTH &amp; WELLNESS</p>
-                    <h3>9.8%</h3>
+                    <h1>9.8%</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>$4.2 Trillion Market Potential</li>
                       <li>Healthy eating, nutrition and weight loss: $702.1 billion
@@ -108,7 +108,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>ORGANIC FOOD &amp; LIFESTYLE</p>
-                    <h3>16.15%</h3>
+                    <h1>16.15%</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>$262.25 Billion by 2022</li>
                       <li>CAGR of 16.15%, in value terms, during 2017 – 2022</li>
@@ -128,7 +128,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>CARBON FOOTPRINT</p>
-                    <h3>6.2%</h3>
+                    <h1>6.2%</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>USD 12.2 billion by 2025</li>
                       <li>(CAGR) of 6.2% during the forecast period of 2020-25</li>
@@ -153,7 +153,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>RECYCLING</p>
-                    <h3>$377 Bn</h3>
+                    <h1>$377 Bn</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>$377 Billion by 2024</li>
                       <li>20%+ CAGR rate yearly wise</li>
@@ -174,7 +174,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>HEALTH &amp; WELLNESS</p>
-                    <h3>$1271.2 Bn</h3>
+                    <h1>$1271.2 Bn</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>$4.2 Trillion Market Potential</li>
                       <li>Healthy eating, nutrition and weight loss: $702.1 billion
@@ -199,7 +199,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>ORGANIC FOOD &amp; LIFESTYLE</p>
-                    <h3>$262.25 Bn</h3>
+                    <h1>$262.25 Bn</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>$262.25 Billion by 2022</li>
                       <li>CAGR of 16.15%, in value terms, during 2017 – 2022</li>
@@ -219,7 +219,7 @@ const Pricing = (props) => {
                   <div className="pricing-one__circle"></div>
                   <div className="pricing-one__inner">
                     <p>CARBON FOOTPRINT</p>
-                    <h3>$12.2 Bn</h3>
+                    <h1>$12.2 Bn</h1>
                     <ul className="list-unstyled pricing-one__list">
                       <li>$12.2 billion by 2025</li>
                       <li>(CAGR) of 6.2% during the forecast period of 2020-25</li>

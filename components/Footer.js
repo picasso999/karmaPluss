@@ -33,7 +33,7 @@ const Footer = () => {
               <div className="col-lg-4">
                 <div className="footer-widget footer-widget__about">
                   <a href="index.html">
-                    <img src={FooterLogo} width="279" alt="" />
+                    <img src={FooterLogo} width="279" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
                   </a>
                   <p>
                   Karma Pluss helps you in becoming <br/>"Best version of Yourself" by guiding you <br/>in doing good deeds to maximize your mind, body, soul potential.
@@ -44,7 +44,7 @@ const Footer = () => {
               <div className="col-lg-5">
                 <div className="footer-widget__links-wrap">
                   <div className="footer-widget">
-                    <h3 className="footer-widget__title">Follow/ Subscribe/ Like Us</h3>
+                    <h1 className="footer-widget__title">Follow/ Subscribe/ Like Us</h1>
                     <ul className="list-unstyled footer-widget__links-list">
                       <li>
                         <a href="https://www.facebook.com/pluss.karma.1">Facebook
@@ -84,7 +84,7 @@ const Footer = () => {
                     </ul> 
                   </div>
                   <div className="footer-widget">
-                    <h3 className="footer-widget__title">Company</h3>
+                    <h1 className="footer-widget__title">Company</h1>
                     <ul className="list-unstyled footer-widget__links-list">
                       <li>
                         <a href="#home">About</a>
@@ -104,7 +104,7 @@ const Footer = () => {
                     </ul>
                   </div>
                   {/* <div className="footer-widget">
-                    <h3 className="footer-widget__title">Links</h3>
+                    <h1 className="footer-widget__title">Links</h1>
                     <ul className="list-unstyled footer-widget__links-list">
                       <li>
                         <a href="#">Help</a>

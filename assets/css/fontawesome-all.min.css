@@ -2780,7 +2780,7 @@ readers do not read off random characters that represent icons */
 .fa-h2:before {
   content: "\f314"; }
 
-.fa-h3:before {
+.fa-h1:before {
   content: "\f315"; }
 
 .fa-hacker-news:before {

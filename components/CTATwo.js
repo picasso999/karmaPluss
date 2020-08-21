@@ -22,25 +22,25 @@ const CTATwo = () => {
                   <div className="cta-two__icon">
                     <i className="fa fa-trees"></i>
                   </div>
-                  <h3>
+                  <h1>
                     Carbon <br /> Footprint
-                  </h3>
+                  </h1>
                 </div>
                 <div className="cta-two__icon-single">
                   <div className="cta-two__icon">
                     <i className="fa fa-recycle"></i>
                   </div>
-                  <h3>
+                  <h1>
                     Recycle <br /> Online
-                  </h3>
+                  </h1>
                 </div>
                 <div className="cta-two__icon-single">
                   <div className="cta-two__icon">
                     <i className="fa fa-store-alt"></i>
                   </div>
-                  <h3>
+                  <h1>
                     Organic <br /> Lifestyle
-                  </h3>
+                  </h1>
                 </div>
               </div>
               <div className="cta-two__text">
@@ -86,19 +86,19 @@ const CTATwo = () => {
                 src={CTAImage1}
                 className="wow fadeInUp"
                 data-wow-duration="1500ms"
-                alt=""
+                alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
               />
               <img
                 src={CTAImage2}
                 className="wow fadeInUp"
                 data-wow-duration="1500ms"
-                alt=""
+                alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
               />
               <img
                 src={CTAImage3}
                 className="wow fadeInUp"
                 data-wow-duration="1500ms"
-                alt=""
+                alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
               />
             </div>
           </div>

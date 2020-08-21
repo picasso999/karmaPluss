@@ -23,7 +23,7 @@ import Head from 'next/head';
 const HomePage = () => (
   <div>
     <Head>
-      <meta name="description" content="Karma Pluss helps user in developing mental, emotional, physical strengths/ skills/ attributes while protecting nature by reducing Carbon Emissions and doing recycle of waste, unwanted items" />
+      <meta name="description" content="Karma Pluss helps in developing mental, emotional, physical strengths/ skills while reducing &amp; tracking Carbon Emissions and doing recycle of waste, unwanted items" />
     </Head>
     <Preloader />
 

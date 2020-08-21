@@ -10,7 +10,7 @@ const BlogSingle = () => {
     <div>
       <div className="blog-details__main">
         <div className="blog-details__image">
-          <img src={BlogDetailsImage} alt="" />
+          <img src={BlogDetailsImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
         </div>
         <div className="blog-details__content">
           <div className="blog-one__meta">
@@ -21,7 +21,7 @@ const BlogSingle = () => {
               <i className="far fa-comments"></i> 2 comments
             </a>
           </div>
-          <h3>Launch New Mobile App Marketing Pitfalls To Avoid</h3>
+          <h1>Launch New Mobile App Marketing Pitfalls To Avoid</h1>
           <p>
             There are many variations of passages of available but majority have
             alteration in some by inject humour or random words. There are many
@@ -74,10 +74,10 @@ const BlogSingle = () => {
       </div>
       <div className="blog-author">
         <div className="blog-author__image">
-          <img src={AuthorImage} alt="" />
+          <img src={AuthorImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
         </div>
         <div className="blog-author__content">
-          <h3>Christine Eve </h3>
+          <h1>Christine Eve </h1>
           <p>
             Lorem Ipsum is simply dummy text of the rinting and typesetting been
             the industry dummy text ever sincer condimentum purus.
@@ -85,13 +85,13 @@ const BlogSingle = () => {
         </div>
       </div>
       <div className="comment-one">
-        <h3 className="comment-one__block-title">2 Comments</h3>
+        <h1 className="comment-one__block-title">2 Comments</h1>
         <div className="comment-one__single">
           <div className="comment-one__image">
-            <img src={CommentImage1} alt="" />
+            <img src={CommentImage1} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="comment-one__content">
-            <h3>Eugenia Floyd</h3>
+            <h1>Eugenia Floyd</h1>
             <p className="comment-one__date">
               20 Mar, 2020 <span>.</span> 4:00 pm
             </p>
@@ -107,10 +107,10 @@ const BlogSingle = () => {
         </div>
         <div className="comment-one__single">
           <div className="comment-one__image">
-            <img src={CommentImage2} alt="" />
+            <img src={CommentImage2} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </div>
           <div className="comment-one__content">
-            <h3>Nellie Hanson</h3>
+            <h1>Nellie Hanson</h1>
             <p className="comment-one__date">
               20 Mar, 2020 <span>.</span> 4:00 pm
             </p>
@@ -126,7 +126,7 @@ const BlogSingle = () => {
         </div>
       </div>
       <div className="comment-form">
-        <h3 className="comment-one__block-title">Leave a Comment</h3>
+        <h1 className="comment-one__block-title">Leave a Comment</h1>
         <form className="contact-form-validated contact-one__form">
           <div className="row">
             <div className="col-lg-6">

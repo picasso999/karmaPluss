@@ -12,7 +12,7 @@ const MobileMenu = () => {
       <div className="side-menu__block-inner ">
         <div className="side-menu__top justify-content-end">
           <a href="#" className="side-menu__toggler side-menu__close-btn">
-            <img src={CloseBtn} alt="" />
+            <img src={CloseBtn} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
           </a>
         </div>
 

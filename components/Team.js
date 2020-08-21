@@ -11,8 +11,8 @@ import TeamMemeber4 from "../assets/images/team/team-1-4.jpg";
 const Team = () => {
   return (
     <section className="team-one" id="team">
-      <img src={TeamShape1} className="team-one__bg-shape-1" alt="" />
-      <img src={TeamShape2} className="team-one__bg-shape-2" alt="" />
+      <img src={TeamShape1} className="team-one__bg-shape-1" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
+      <img src={TeamShape2} className="team-one__bg-shape-2" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
       <div className="container">
         <BlockTitle
           textAlign="center"
@@ -24,10 +24,10 @@ const Team = () => {
             <div className="team-one__single">
               <div className="team-one__circle"></div>
               <div className="team-one__inner">
-                <h3>Puranam Pradeep Picasso</h3>
+                <h1>Puranam Pradeep Picasso</h1>
                 <p>Product Guru - Full-Stack Developer &amp; Product Designer</p>
                 <div className="team-one__image">
-                  <img src={TeamMemeber1} alt="" />
+                  <img src={TeamMemeber1} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
                 </div>
                 <div className="team-one__social">
                   <a href="https://www.facebook.com/puranam.p.picasso" target="_blanck">
@@ -47,10 +47,10 @@ const Team = () => {
             <div className="team-one__single">
               <div className="team-one__circle"></div>
               <div className="team-one__inner">
-                <h3>EL Law</h3>
+                <h1>EL Law</h1>
                 <p>Business Guru - Investor &amp; Plantation Expert</p>
                 <div className="team-one__image">
-                  <img src={TeamMemeber2} alt="" />
+                  <img src={TeamMemeber2} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
                 </div>
                 <div className="team-one__social">
                   <a href="https://www.facebook.com/el.law.92">
@@ -70,10 +70,10 @@ const Team = () => {
             <div className="team-one__single">
               <div className="team-one__circle"></div>
               <div className="team-one__inner">
-                <h3>Sam</h3>
+                <h1>Sam</h1>
                 <p>Operations Guru - Business Development</p>
                 <div className="team-one__image">
-                  <img src={TeamMemeber3} alt="" />
+                  <img src={TeamMemeber3} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
                 </div>
                 <div className="team-one__social">
                   <a href="#">
@@ -93,10 +93,10 @@ const Team = () => {
             <div className="team-one__single">
               <div className="team-one__circle"></div>
               <div className="team-one__inner">
-                <h3>Rajashekar Kokkula</h3>
+                <h1>Rajashekar Kokkula</h1>
                 <p>Product Guru - Backend Developer</p>
                 <div className="team-one__image">
-                  <img src={TeamMemeber4} alt="" />
+                  <img src={TeamMemeber4} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
                 </div>
                 <div className="team-one__social">
                   <a href="https://www.facebook.com/rajashekar.kokkula" target="_blanck">

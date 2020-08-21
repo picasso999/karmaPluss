@@ -4,7 +4,7 @@ const BlockTitle = (props) => {
   return (
     <div className={`block-title text-${props.textAlign} `}>
       <p>{props.paraText}</p>
-      <h3>{props.titleText}</h3>
+      <h1>{props.titleText}</h1>
     </div>
   );
 };

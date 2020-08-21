@@ -37,7 +37,7 @@ const Banner = () => {
             src={BannerMoc}
             className="wow fadeInUp"
             data-wow-duration="1500ms"
-            alt=""
+            alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
           />
         </div>
         <div className="row">
@@ -54,9 +54,9 @@ const Banner = () => {
                 </button>
               </form>
               <div className="mc-form__response"></div>
-              <h3>
+              <h1>
                 Become Your <br /> "BEST VERSION" 
-              </h3>
+              </h1>
               <h4>To Manifest <br /> AWESOMENESS in YOU</h4>
               <p>
   Karma Pluss helps you in becoming <strong>"Best version <br/> of Yourself"</strong>  by guiding you in doing good deeds <br/> to maximize your <strong>mind, body, soul </strong>potential.
