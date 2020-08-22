@@ -17,6 +17,7 @@
     "react-scroll": "^1.8.0",
     "react-visibility-sensor": "^5.1.1",
     "reactjs-popup": "^1.5.0",
+    "sitemap": "^6.2.0",
     "swiper": "^6.0.4"
   },
   "scripts": {
