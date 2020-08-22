@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://karma-pluss.vercel.app/</loc>
+  <priority>0.9</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-08-22</lastmod>
+</url>
+<url>
+  <loc>http://karma-pluss.vercel.app/index.html</loc>
+  <priority>0.9</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-08-22</lastmod>
+</url>
