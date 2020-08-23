@@ -1,19 +1,38 @@
 import React, { useState } from "react";
 import ModalVideo from "react-modal-video";
+// import { useHistory } from 'react-router-dom';
+// import {history} from 'react-router-dom';
+// import {Redirect } from 'react-router-dom';
+// import Popup from 'reactjs-popup';
+
 
 import BannerShape from "../assets/images/shapes/banner-shape-1-1.png";
 import BannerBG from "../assets/images/resources/banner-image-1-1.jpg";
 import BannerMoc from "../assets/images/resources/banner-moc-1-1.png";
 
+
 const Banner = () => {
   const [open, setOpen] = useState({
     isOpen: false,
+    // redirect: false
   });
   const openModal = () => {
     setOpen({
       isOpen: true,
     });
   };
+//   const onSubmit= () => {
+//       setTimeout(( )=> {
+//         return  <Redirect  to="https://karma-pluss.vercel.app/" />
+
+//       },50)
+    
+//  }
+// const history = useHistory();
+// const handleClick = () => {
+//   history.push("/home");
+// }
+
 
   return (
     <section className="banner-one" id="home">
@@ -48,14 +67,16 @@ const Banner = () => {
                 method="POST"  data-email="karmapluss2020@gmail.com"
           action="https://script.google.com/macros/s/AKfycbwdGY48GrYlwWI8pME5Gjzg68XXmMRbZ-CX2pCtKw/exec"
               >
-                <input type="text" name="emailInterest" id="emailInterest" placeholder="Email address" />
+                <input type="text" name="email" id="emailInterest" placeholder="Email address" />
                 <button type="submit" className="thm-btn banner-one__mc-btn">
+                {/* {this.renderRedirect()} */}
                   <span>Know More</span>
                 </button>
+                
               </form>
               <div className="mc-form__response"></div>
               <h1>
-                Become Your <br /> "BEST VERSION" 
+                Become Your <br /> "BEST VERSION"
               </h1>
               <h4>To Manifest <br /> AWESOMENESS in YOU</h4>
               <p>

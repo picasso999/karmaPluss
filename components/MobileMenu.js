@@ -32,15 +32,11 @@ const MobileMenu = () => {
             <a href="https://www.facebook.com/pluss.karma.1">
               <i className="fab fa-facebook-square"></i>
             </a>
-            <a href="https://twitter.com/KarmaPluss">
-              <i className="fab fa-twitter"></i>
-            </a>
+            
             <a href="https://www.instagram.com/karmapluss_/">
               <i className="fab fa-instagram"></i>
             </a>
-            <a href="https://in.pinterest.com/karmapluss/">
-              <i className="fab fa-pinterest-p"></i>
-            </a>
+            
             <a href="https://www.linkedin.com/company/karmapluss">
               <i className="fab fa-linkedin"></i>
             </a>
