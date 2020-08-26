@@ -15,7 +15,7 @@ const CTATwo = () => {
               <BlockTitle
                 textAlign="left"
                 paraText="Added Features"
-                titleText={`Making you build our "healthy Planet"`}
+                titleText={`Making you build our "Healthy Planet"`}
               />
               <div className="cta-two__icon-wrap">
                 <div className="cta-two__icon-single">
@@ -45,13 +45,13 @@ const CTATwo = () => {
               </div>
               <div className="cta-two__text">
                 <p>
-                  Healthy World needs people like us. The ones' who are <strong>eager to do good to self, others and nature</strong> around. Carbon Footprint &amp; emissions help in <strong>reducing global warming from our door step.</strong> To reduce wastage and increase reusability, we have <strong>'easy recycle'</strong> option for our users to recycle waste and unwated items. To be able to purchase healthy food and keeping nature safe, it is important to buy products which release less Carbon Emissions, we help you know how much <strong>'Organic Lifestyle'</strong> you are leading. 
+                  Healthy World needs people like us. The ones' who are <strong>eager to do good to self, others and nature</strong> around. Carbon Footprint &amp; emissions help in <strong>reducing global warming from our door step.</strong> To reduce wastage and increase reusability, we have <strong>'easy recycle'</strong> option for our users to recycle waste and unwanted items. To be able to purchase healthy food and keeping nature safe, it is important to buy products which release less Carbon Emissions, we help you to know how much <strong>'Organic Lifestyle'</strong> you are leading. 
                 </p>
                 <br/>
                 <ul className="list-unstyled cta-one__list">
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Helps you help out nature by making us aware of our CO2 emissions, how to reduce it by plantation or many others ways.
+                  Helps you help out nature by making us aware of our CO<sub>2</sub> emissions, how to reduce it by plantation or many others ways.
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
@@ -67,7 +67,7 @@ const CTATwo = () => {
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Buy things from others to save the environment by not making new purchases and create more CO2 emissions into air. This will help us in building reusable-lifestyle.
+                  Buy things from others to save the environment by not making new purchases and create more CO<sub>2</sub> emissions into air. This will help us in building reusable-lifestyle.
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>

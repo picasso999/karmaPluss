@@ -3294,7 +3294,7 @@ a:visited {
 
 .funfact-one__single h1 {
   margin: 0;
-  color: #fff;
+  color: #737789;
   font-weight: 500;
   font-size: 60px;
   position: relative;
@@ -3304,7 +3304,7 @@ a:visited {
 }
 
 .funfact-one__single p {
-  color: #fff;
+  color: #737789;
   margin: 0;
   font-size: 18px;
   font-weight: 500;
@@ -3503,7 +3503,7 @@ a:visited {
   bottom: 6px;
   -webkit-transform: translateX(0px);
   transform: translateX(0px);
-  background-color: #fff;
+  background-color: #737789;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -3627,7 +3627,7 @@ a:visited {
 .pricing-one__single:hover h1,
 .pricing-one [class*="col-"]:nth-child(2) .pricing-one__inner > span,
 .pricing-one__single:hover .pricing-one__inner > span {
-  color: #fff;
+  color: #737789;
 }
 
 /*--------------------------------------------------------------
@@ -3976,7 +3976,7 @@ a:visited {
 
 .team-one__single:hover p,
 .team-one__single:hover h1 {
-  color: #fff;
+  color: #737789;
 }
 
 .team-one__social {

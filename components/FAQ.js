@@ -27,7 +27,7 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="What all features does Karma Pluss contains?"
-            content="As we have already explained in our launching website (above), we have added Carbon Footprint to know your Green House Gas Emissions and ways to avoid or reduce it. We have added, self development tasks/ Challenges for users to help themselves, others and nature by improving in holistic way. We have added, recycle feature for users to recycle their waste or products that they don't want. We have added, Organic &amp; hea;thy lifestyle choices for people to know, track and buy items in most calculated, healthiest way possible. Lot more features are on the way."
+            content="As we have already explained in our launching website (above), we have added Carbon Footprint to know your Green House Gas Emissions and ways to avoid or reduce it. We have added, self development tasks/ Challenges for users to help themselves, others and nature by improving in holistic way. We have added, recycle feature for users to recycle their waste or products that they don't want. We have added, Organic &amp; healthy lifestyle choices for people to know, track and buy items in most calculated, healthiest way possible. Lot more features are on the way."
             status={false}
           />
           <AccordionItem

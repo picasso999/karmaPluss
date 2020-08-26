@@ -70,7 +70,7 @@ const FunFact = () => {
                   <CountUp end={counter.startCounter ? 266 : 0} />
                 </VisibilitySensor>
               </h1>
-              <p>A.I. Methods used</p>
+              <p>A.I. Methods Used</p>
             </div>
           </div>
         </div>

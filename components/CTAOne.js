@@ -33,11 +33,11 @@ const CTAOne = () => {
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  we keep track of your good and bad deeds,
+                  We keep track of your good and bad deeds,
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  we help you protect our nature by giving you estimations of your carbon emissions, how much recycle is being done,
+                  We help you protect our nature by giving you estimations of your carbon emissions, how much recycle is being done,
                 </li>
                 <li>
                   <i className="fa fa-check-circle"></i>

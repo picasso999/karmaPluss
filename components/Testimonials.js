@@ -85,7 +85,7 @@ const Testimonials = (props) => {
                   <div className="swiper-slide">
                     <div className="testimonials-one__single">
                       <p className="testimonials-one__text">
-                      The application has many amazing features that can help out people like me who loves to document my good deeds to know how far I have developed over years. It's a great way to control emitting CO2 while we know the cause for it. Thanks to the idea of healthy diet and check how much of my goods are organic and less carbon emitted production products, boosts me morally and mentally. Love to check out their beta version. 
+                      The application has many amazing features that can help out people like me who loves to document my good deeds to know how far I have developed over years. It's a great way to control emitting CO<sub>2</sub> while we know the cause for it. Thanks to the idea of healthy diet and check how much of my goods are organic and less carbon emitted production products, boosts me morally and mentally. Love to check out their beta version. 
                       </p>
 
                       <h1 className="testimonials-one__title">Joe Kolmer</h1>
