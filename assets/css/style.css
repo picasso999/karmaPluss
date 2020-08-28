@@ -38,9 +38,9 @@ font-family: 'Quicksand', sans-serif;
 
 :root {
   --thm-font: "Quicksand", sans-serif;
-  --thm-base: #ffcc00;
+  --thm-base: #fec20f;
   --thm-base-rgb: 255,204,0;
-  --thm-primary: #EEE846;
+  --thm-primary: #F5B842;
   --thm-primary-rgb: 238,232,70;
   --thm-black: #252c4b;
   --thm-black-rgb: 37, 44, 75;
@@ -3294,7 +3294,7 @@ a:visited {
 
 .funfact-one__single h1 {
   margin: 0;
-  color: #737789;
+  color: #fff;
   font-weight: 500;
   font-size: 60px;
   position: relative;
@@ -3304,7 +3304,7 @@ a:visited {
 }
 
 .funfact-one__single p {
-  color: #737789;
+  color: #fff;
   margin: 0;
   font-size: 18px;
   font-weight: 500;
@@ -3503,7 +3503,7 @@ a:visited {
   bottom: 6px;
   -webkit-transform: translateX(0px);
   transform: translateX(0px);
-  background-color: #737789;
+  background-color: #fff;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -3627,7 +3627,7 @@ a:visited {
 .pricing-one__single:hover h1,
 .pricing-one [class*="col-"]:nth-child(2) .pricing-one__inner > span,
 .pricing-one__single:hover .pricing-one__inner > span {
-  color: #737789;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -3964,7 +3964,7 @@ a:visited {
 }
 
 .team-one__single p {
-  color: #737789;
+  color: #fff;
   margin: 0;
   line-height: 1em;
   font-size: 14px;
