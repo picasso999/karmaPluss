@@ -21,6 +21,8 @@ import Testimonials from "../components/Testimonials";
 import Head from 'next/head';
 
 const HomePage = () => (
+  
+  
   <div>
     <Head>
       <meta name="description" content="Karma Pluss helps in developing mental, emotional, physical strengths/ skills while reducing &amp; tracking Carbon Emissions and doing recycle of waste, unwanted items" />
@@ -28,6 +30,7 @@ const HomePage = () => (
       
 
     </Head>
+    
     <Preloader />
 
     <Layout pageTitle="Karma Pluss | Discover 'The Best' in You">

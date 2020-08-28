@@ -6,7 +6,6 @@ import AppleTouch from "../assets/images/favicons/apple-touch-icon.png";
 import Fevicon32 from "../assets/images/favicons/favicon-32x32.png";
 import Fevicon16 from "../assets/images/favicons/favicon-16x16.png";
 
-import { initGA, logPageView } from "./googleAnalytics.js"
 
 const Layout = (props) => {
   const [scrollTop, setScrollTop] = useState(false);
@@ -19,13 +18,7 @@ const Layout = (props) => {
     }
   };
 
-  componentDidMount () {
-    if (!window.GA_INITIALIZED) {
-      initGA()
-      window.GA_INITIALIZED = true
-    }
-    logPageView()
-  }
+ 
 
   useEffect(() => {
     window.addEventListener("scroll", handleScrollTop);
