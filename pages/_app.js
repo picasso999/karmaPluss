@@ -14,7 +14,7 @@ export default function MyApp({ Component, pageProps }) {
   
     (function initializeReactGA() {
       ReactGA.initialize('G-0FW20VWFK7');
-      ReactGA.pageview('/homepage');
+      ReactGA.pageview('/');
   })
   
   return <Component {...pageProps} />;
