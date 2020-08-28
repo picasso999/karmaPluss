@@ -67,8 +67,8 @@ const Banner = () => {
                 method="POST"  data-email="karmapluss2020@gmail.com"
           action="https://script.google.com/macros/s/AKfycbwdGY48GrYlwWI8pME5Gjzg68XXmMRbZ-CX2pCtKw/exec"
               >
-                <input type="text" name="email" id="emailInterest" placeholder="Email address" />
-                <button type="submit" className="thm-btn banner-one__mc-btn">
+                <input className="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" type="email" name="email" id="emailInterest"  required="true" placeholder="Email address" />
+                <button type="submit"  className="thm-btn banner-one__mc-btn">
                 {/* {this.renderRedirect()} */}
                   <span>Know More</span>
                 </button>

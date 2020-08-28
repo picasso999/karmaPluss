@@ -6,7 +6,7 @@ import AppleTouch from "../assets/images/favicons/apple-touch-icon.png";
 import Fevicon32 from "../assets/images/favicons/favicon-32x32.png";
 import Fevicon16 from "../assets/images/favicons/favicon-16x16.png";
 
-import ReactGA from 'react-ga';
+// import ReactGA from 'react-ga';
 
 const Layout = (props) => {
   const [scrollTop, setScrollTop] = useState(false);
@@ -19,12 +19,7 @@ const Layout = (props) => {
     }
   };
 
-  function initializeReactGA() {
-    ReactGA.initialize('G-0FW20VWFK7');
-    ReactGA.pageview('/');
-};
-initializeReactGA()
-
+ 
  
 
   useEffect(() => {
@@ -37,6 +32,7 @@ initializeReactGA()
     <div>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
         <title>{props.pageTitle}</title>
         <link rel="apple-touch-icon" sizes="180x180" href={AppleTouch} />
         <link rel="icon" type="image/png" sizes="32x32" href={Fevicon32} />
@@ -45,6 +41,20 @@ initializeReactGA()
           href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
+        {/* Global site tag (gtag.js) - Google Analytics */}
+        {/* <script async src="https://www.googletagmanager.com/gtag/js?id=G-0FW20VWFK7"></script>
+        <script dangerouslySetInnerHTML={{ __html: `
+           
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+            
+              gtag('config', 'G-0FW20VWFK7');
+            </script>
+              `,
+          }}
+        /> */}
       </Head>
 
       <div className="page-wrapper">{props.children}</div>

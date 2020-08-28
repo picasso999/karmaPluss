@@ -14,7 +14,7 @@ const Footer = () => {
             <form action="#" className="mailchimp-one__form" method="POST"  data-email="karmapluss2020@gmail.com"
           action="https://script.google.com/macros/s/AKfycbwdGY48GrYlwWI8pME5Gjzg68XXmMRbZ-CX2pCtKw/exec">
               <input
-                type="text"
+                type="text" className="email"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required="true"
                 placeholder="Enter your email address"
                 name="emailSubscribe" id="emailSubscribe"
               />

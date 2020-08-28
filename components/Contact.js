@@ -19,16 +19,16 @@ const Contact = () => {
               />
               <div className="row">
                 <div className="col-lg-6">
-                  <input type="text" placeholder="Name" name="name" id="name" />
+                  <input type="text" placeholder="Name" required="true" name="name" id="name" />
                 </div>
                 <div className="col-lg-6">
-                  <input type="text" placeholder="Email Address" name="email" id="email" />
+                  <input type="email" className="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="Email Address" required="true" name="email" id="email" />
                 </div>
                 <div className="col-lg-6">
-                  <input type="text" placeholder="Subject" name="subject" id="subject" />
+                  <input type="text" placeholder="Subject" required="true" name="subject" id="subject" />
                 </div>
                 <div className="col-lg-6">
-                  <input type="text" placeholder="Phone Number" name="phone" id="phone" />
+                  <input type="text" placeholder="Phone Number" required="true" name="phone" id="phone" />
                 </div>
                 <div className="col-lg-12">
                   <textarea
