@@ -25,11 +25,8 @@ const HomePage = () => (
     <Head>
       <meta name="description" content="Karma Pluss helps in developing mental, emotional, physical strengths/ skills while reducing &amp; tracking Carbon Emissions and doing recycle of waste, unwanted items" />
       
-      <script async src= "./googleTag.js"></script>
+      
 
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-0FW20VWFK7"></script>
-      <script async src= "./analytics.js"></script>
-  
     </Head>
     <Preloader />
 
