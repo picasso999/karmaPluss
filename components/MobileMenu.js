@@ -30,7 +30,7 @@ const MobileMenu = () => {
           </p>
           <div className="side-menu__social">
             <a href="https://www.facebook.com/pluss.karma.1">
-              <i className="fab fa-facebook-square"></i>
+              <i className="fab fa-facebook"></i>
             </a>
             
             <a href="https://www.instagram.com/karmapluss_/">

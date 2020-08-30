@@ -94,7 +94,7 @@ const Testimonials = (props) => {
                   <div className="swiper-slide">
                     <div className="testimonials-one__single">
                       <p className="testimonials-one__text">
-                      A lot food, plastic waste stays at home. Many times, my children throw many of their old toys even if they are in good condition, just because they got bored of them or something new came up in their games trend. Luckily, I can use Karma Pluss to solve my problems. I can recycle paper, plastic, metal, old things to local vendors. Can share extra food with poor people or bachelores nearby for free. I can also, exchange toys, items I have with other people for free or for certain price. Thanks to Karma Pluss app . Looking forward to try it soon.
+                      A lot food, plastic waste stays at home. Many times, my children throw many of their old toys even if they are in good condition, just because they got bored of them or something new came up in their games trend. Luckily, I can use Karma Pluss to solve my problems. I can recycle paper, plastic, metal, old things to local vendors. Can share extra food with poor people or bachelors nearby for free. I can also, exchange toys, items I have with other people for free or for certain price. Thanks to Karma Pluss app . Looking forward to try it soon.
                       </p>
 
                       <h1 className="testimonials-one__title">Darrin Jenna</h1>

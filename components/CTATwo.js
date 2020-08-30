@@ -45,34 +45,41 @@ const CTATwo = () => {
               </div>
               <div className="cta-two__text">
                 <p>
-                  Healthy World needs people like us. The ones' who are <strong>eager to do good to self, others and nature</strong> around. Carbon Footprint &amp; emissions help in <strong>reducing global warming from our door step.</strong> To reduce wastage and increase reusability, we have <strong>'easy recycle'</strong> option for our users to recycle waste and unwanted items. To be able to purchase healthy food and keeping nature safe, it is important to buy products which release less Carbon Emissions, we help you to know how much <strong>'Organic Lifestyle'</strong> you are leading. 
+                  <strong>Healthy World</strong> needs people like us. The ones' who are <strong>eager to do good to self, others and nature</strong> around. Carbon Footprint &amp; emissions help in <strong>reducing global warming from our door step.</strong> To reduce wastage and increase reusability, we have <strong>'easy recycle'</strong> option for our users to recycle waste and unwanted items. To be able to purchase healthy food and keeping nature safe, it is important to buy products which release less Carbon Emissions, we help you to know how much <strong>'Organic Lifestyle'</strong> you are leading. 
                 </p>
                 <br/>
                 <ul className="list-unstyled cta-one__list">
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Helps you help out nature by making us aware of our CO<sub>2</sub> emissions, how to reduce it by plantation or many others ways.
+                  <strong>Helps you help out nature</strong> by making us aware of our CO<sub>2</sub> emissions, how to reduce it by plantation or many others ways.
                 </li>
+                <hr/>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  A sweet gift to surprise your loved ones with books, plants specially crafted for various occasions.
+                  <strong>A sweet gift to surprise</strong> your loved ones with books, plants specially crafted for various occasions.
                 </li>
+                <hr/>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Recycle your waste from your doorstep, by just a click away to connect with local vendors. 
+                  <strong>Recycle your waste</strong> from your doorstep, by just a click away to connect with local vendors. 
                 </li>
+                <hr/>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Give things you are not using anymore for a certain price or free to nearby people who are in need. Sharing is caring, gratitude to others makes us grow as a human being   
+                  <strong>Give things you are not using</strong> anymore for a certain price or free to nearby people who are in need. Sharing is caring, gratitude to others makes us grow as a human being.
+                     
                 </li>
+                <hr/>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Buy things from others to save the environment by not making new purchases and create more CO<sub>2</sub> emissions into air. This will help us in building reusable-lifestyle.
+                  <strong>Buy things from others</strong> to save the environment by not making new purchases and create more CO<sub>2</sub> emissions into air. This will help us in building reusable-lifestyle.
                 </li>
+                <hr/>
                 <li>
                   <i className="fa fa-check-circle"></i>
-                  Caring for self-development, caring for others and caring for nature makes us truly happy, which leads to a successful lifestyle.
+                  <strong>Caring for self-development, caring for others and caring for nature</strong> makes us truly happy, which leads to a successful lifestyle.
                 </li>
+                <hr/>
               </ul>
               </div>
               <a href="#videoOne" className="thm-btn cta-two__btn">
@@ -84,19 +91,19 @@ const CTATwo = () => {
             <div className="cta-two__images d-flex justify-content-end align-items-end flex-column">
               <img
                 src={CTAImage1}
-                className="wow fadeInUp"
+                className="wow fadeInUp CardDsn"
                 data-wow-duration="1500ms"
                 alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
               />
               <img
                 src={CTAImage2}
-                className="wow fadeInUp"
+                className="wow fadeInUp CardDsn"
                 data-wow-duration="1500ms"
                 alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
               />
               <img
                 src={CTAImage3}
-                className="wow fadeInUp"
+                className="wow fadeInUp CardDsn"
                 data-wow-duration="1500ms"
                 alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
               />

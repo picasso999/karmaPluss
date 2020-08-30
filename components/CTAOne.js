@@ -11,11 +11,11 @@ const CTAOne = () => {
       <img src={CtaShape1} className="cta-one__bg-shape-1" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
       <img src={CtaShape2} className="cta-one__bg-shape-2" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
       <div className="container">
-        <div className="cta-one__moc wow fadeInLeft" data-wow-duration="1500ms">
+        <div className="cta-one__moc wow fadeInLeft row" data-wow-duration="1500ms">
           <img src={CtaMoc1} className="cta-one__moc-img" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
         </div>
         <div className="row justify-content-end">
-          <div className="col-lg-6">
+          <div className="col-lg-5">
             <div className="cta-one__content">
               <BlockTitle
                 textAlign="left"

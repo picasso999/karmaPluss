@@ -52,7 +52,7 @@ const Pricing = (props) => {
             </a>
           </li>
         </ul>
-        <p>More than ever, We need this right now. With current <strong>Social Connectivity, Technology and Informative World,</strong> we can save <strong>our planet from detoriating and save living beings</strong> from losing HOPE. <strong>Karma Pluss</strong> focuses on achieving this sustainable goal.</p>
+        <p>More than ever, we need this right now. With current <strong>Social Connectivity, Technology and Informative World,</strong> we can save <strong>our planet from detoriating and save living beings</strong> from losing HOPE. <strong>Karma Pluss</strong> focuses on achieving this sustainable goal.</p>
         {plan === true ? (
           <div id="yearly" >
             <Row> 
@@ -93,7 +93,7 @@ const Pricing = (props) => {
 <li>Preventive and personalized medicine and public health: $574.8 billion
 </li>
                       <li>Application users are increasing annually</li>
-                      <li>Karma Pluss helps users in developing their mental, physical, emotional and networking skills through continous ground level support to advance analytics and guidance.</li>
+                      <li>Karma Pluss helps users in developing their mental, physical, emotional and networking skills through continuous ground level support to advance analytics and guidance.</li>
                     </ul>
                     <a href="https://www.fastcompany.com/90247896/these-10-market-trends-turned-wellness-into-a-4-2-trillion-global-industry" target="_blanck" className="thm-btn pricing-one__btn">
                       <span>Source Link</span>

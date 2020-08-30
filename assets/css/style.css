@@ -80,6 +80,10 @@ a:visited {
   }
 }
 
+hr {
+  margin: 5px 0 5px 0;
+}
+
 .thm-btn {
   display: inline-block;
   vertical-align: middle;
@@ -2772,6 +2776,7 @@ a:visited {
   padding-top: 40px;
   padding-bottom: 71px;
   border-radius: 135px;
+  height: 950px;
   overflow: hidden;
 }
 
@@ -2900,8 +2905,8 @@ a:visited {
 
 .cta-one__moc {
   position: absolute;
-  left: -190px;
-  bottom: -150px;
+  left: -90px;
+  bottom: 100px;
 }
 
 .cta-one__moc img {
@@ -3964,7 +3969,7 @@ a:visited {
 }
 
 .team-one__single p {
-  color: #fff;
+  color: #737789;
   margin: 0;
   line-height: 1em;
   font-size: 14px;
@@ -3976,7 +3981,7 @@ a:visited {
 
 .team-one__single:hover p,
 .team-one__single:hover h1 {
-  color: #737789;
+  color: #fff;
 }
 
 .team-one__social {
@@ -4163,6 +4168,17 @@ a:visited {
   height: 651px;
   background-size: 100% auto;
   box-shadow: 0px 0px 60px 0px rgba(5, 5, 6, 0.05);
+}
+
+/* .appSize {
+  width: 280x !important;
+  height: 471px;
+} */
+
+.CardDsn {
+  width: 402px;
+  height: 309px;
+
 }
 
 @media (max-width: 1440px) {

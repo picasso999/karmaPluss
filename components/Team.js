@@ -31,7 +31,7 @@ const Team = () => {
                 </div>
                 <div className="team-one__social">
                   <a href="https://www.facebook.com/puranam.p.picasso" target="_blanck">
-                    <i className="fab fa-facebook-square"></i>
+                    <i className="fab fa-facebook"></i>
                   </a>
                   <a href="https://www.linkedin.com/in/puranampradeeppicasso/" target="_blanck">
                     <i className="fab fa-linkedin"></i>
@@ -54,7 +54,7 @@ const Team = () => {
                 </div>
                 <div className="team-one__social">
                   <a href="https://www.facebook.com/el.law.92">
-                    <i className="fab fa-facebook-square"></i>
+                    <i className="fab fa-facebook"></i>
                   </a>
                   <a href="#">
                     <i className="fab fa-twitter"></i>
@@ -77,7 +77,7 @@ const Team = () => {
                 </div>
                 <div className="team-one__social">
                   <a href="#">
-                    <i className="fab fa-facebook-square"></i>
+                    <i className="fab fa-facebook"></i>
                   </a>
                   <a href="#">
                     <i className="fab fa-twitter"></i>
@@ -100,7 +100,7 @@ const Team = () => {
                 </div>
                 <div className="team-one__social">
                   <a href="https://www.facebook.com/rajashekar.kokkula" target="_blanck">
-                    <i className="fab fa-facebook-square"></i>
+                    <i className="fab fa-facebook"></i>
                   </a>
                   <a href="https://www.linkedin.com/in/rajashekar-kokkula-2064994b/" target="_blanck">
                     <i className="fab fa-linkedin"></i>

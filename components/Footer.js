@@ -45,6 +45,7 @@ const Footer = () => {
                 <div className="footer-widget__links-wrap">
                   <div className="footer-widget">
                     <h1 className="footer-widget__title">Follow/ Subscribe/ Like Us</h1>
+                    <div class="g-ytsubscribe" data-channelid="UCfFC8U8_ZanYSAW27kLNaTg" data-layout="full" data-count="hidden"></div>
                     <ul className="list-unstyled footer-widget__links-list">
                       <li>
                         <a href="https://www.facebook.com/pluss.karma.1">Facebook
@@ -76,11 +77,7 @@ const Footer = () => {
                           {/* <i className="fab fa-tumblr"></i> */}
                         </a>
                       </li>
-                      <li>
-                        <a href="https://www.youtube.com/channel/UCfFC8U8_ZanYSAW27kLNaTg?view_as=subscriber">YouTube
-                          {/* <i className="fab fa-youtube"></i> */}
-                        </a>
-                      </li>
+                      
                     </ul> 
                   </div>
                   <div className="footer-widget">
@@ -154,7 +151,7 @@ const Footer = () => {
         </div>
         <div className="site-footer__bottom">
           <div className="container text-center">
-            <p>© copyright 2020-22 by karmapluss.com | karmapluss.io</p>
+            <p>© copyright 2020-22 by karmapluss.com</p>
           </div>
         </div>
       </footer>

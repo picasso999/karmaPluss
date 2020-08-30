@@ -13,6 +13,7 @@ const VideoOne = () => {
       isOpen: true,
     });
   };
+
   return (
     <section className="video-one" id="videoOne">
       <div
@@ -32,7 +33,7 @@ const VideoOne = () => {
         <ModalVideo
           channel="youtube"
           isOpen={open.isOpen}
-          videoId="qcN1_Cvf9Nc"
+          videoId="OEGwoXb-xwQ"
           onClose={() => setOpen({ isOpen: false })}
         />
         <a href="#" onClick={openModal} className="video-one__btn video-popup">
@@ -42,4 +43,5 @@ const VideoOne = () => {
     </section>
   );
 };
+
 export default VideoOne;
