@@ -5,6 +5,7 @@ import { Link as ScrollLink, animateScroll as scroll } from "react-scroll";
 import AppleTouch from "../assets/images/favicons/apple-touch-icon.png";
 import Fevicon32 from "../assets/images/favicons/favicon-32x32.png";
 import Fevicon16 from "../assets/images/favicons/favicon-16x16.png";
+import BrandLogo from "../assets/images/resources/brand-1-1-1.png";
 
 // import ReactGA from 'react-ga';
 
@@ -32,6 +33,10 @@ const Layout = (props) => {
     <div>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta property="og:title" content="Karma Pluss | Discover 'The Best' in You" />
+<meta property="og:description" content="Karma Pluss helps in developing mental, emotional, physical strengths/ skills while reducing &amp; tracking Carbon Emissions and doing recycle of waste, unwanted items" />
+<meta property="og:url" content="https://karmapluss.com" />
+<meta property="og:image" content={BrandLogo} />
         
         <title>{props.pageTitle}</title>
         <link rel="apple-touch-icon" sizes="180x180" href={AppleTouch} />
