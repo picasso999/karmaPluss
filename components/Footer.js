@@ -37,7 +37,15 @@ const Footer = () => {
                   </a>
                   <p>
                   Karma Pluss helps you in becoming <br/>"Best version of Yourself" by guiding you <br/>in doing good deeds to maximize your mind, body, soul potential.
-                  </p>
+                  <br/>
+                  <br/>
+                  <strong>Headquarters:</strong><br/>
+                  <strong>Karma Pluss Sdn. Bhd.</strong><br/>
+                  Level 17, Top Glove Tower,<br/>
+                  No. 16, Persiaran Setia Dagang,<br/>
+                  Setia Alam , Seksyen U13,<br/>
+                  40170 Shah Alam, Selangor,<br/>
+                  Darul Ehsan, Malaysia.</p>
                 </div>
               </div>
 
