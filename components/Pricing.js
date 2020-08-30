@@ -113,7 +113,7 @@ const Pricing = (props) => {
                       <li>$262.25 Billion by 2022</li>
                       <li>CAGR of 16.15%, in value terms, during 2017 – 2022</li>
                       <li>Application users are increasing exponentially during past few years</li>
-                      <li>Karma Pluss helps users in knowing healthy food habits documented with benefits of Organic lifestyle suggestions and reports.</li>
+                      <li>Karma Pluss helps users in knowing healthy food habits documented with benefits of Organic Lifestyle suggestions and reports.</li>
                     </ul>
                     <a href="https://www.techsciresearch.com/report/global-organic-food-market-by-product-type-organic-meat-poultry-and-dairy-organic-fruits-and-vegetables-organic-processed-food-etc-by-region-europe-north-america-asia-pacific-etc-competition-forecast-and-opportunities/833.html"  target="_blanck" className="thm-btn pricing-one__btn">
                       <span>Source Link</span>
@@ -204,7 +204,7 @@ const Pricing = (props) => {
                       <li>$262.25 Billion by 2022</li>
                       <li>CAGR of 16.15%, in value terms, during 2017 – 2022</li>
                       <li>Application users are increasing exponentially during past few years</li>
-                      <li>Karma Pluss helps users in knowing healthy food habits documented with benefits of Organic lifestyle suggestions and reports.</li>
+                      <li>Karma Pluss helps users in knowing healthy food habits documented with benefits of Organic Lifestyle suggestions and reports.</li>
                     </ul>
                     <a href="https://www.techsciresearch.com/report/global-organic-food-market-by-product-type-organic-meat-poultry-and-dairy-organic-fruits-and-vegetables-organic-processed-food-etc-by-region-europe-north-america-asia-pacific-etc-competition-forecast-and-opportunities/833.html"  target="_blanck" className="thm-btn pricing-one__btn">
                       <span>Source Link</span>

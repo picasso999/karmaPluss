@@ -12,6 +12,9 @@ import BrandLogo from "../assets/images/resources/brand-1-1-1.png";
 const Layout = (props) => {
   const [scrollTop, setScrollTop] = useState(false);
 
+  
+
+
   const handleScrollTop = () => {
     if (window.scrollY > 70) {
       setScrollTop(true);
@@ -19,6 +22,27 @@ const Layout = (props) => {
       setScrollTop(false);
     }
   };
+
+  // React.useEffect(() => {
+  
+
+  //   const willDelete = async swal=>({
+  //     title: "Are you sure?",
+  //     text: "Are you sure that you want to delete this file?",
+  //     icon: {BrandLogo},
+  //     dangerMode: true,
+  //   });
+    
+  //   if (willDelete) {
+  //     swal(<div>
+  //       <h1>Hello!</h1>        
+  //       <p>I am a React component inside a SweetAlert modal.</p>
+  //     </div>, "success");
+  //   }
+
+  // }, []);
+
+  
 
  
  
@@ -65,6 +89,8 @@ const Layout = (props) => {
       </Head>
 
       <div className="page-wrapper">{props.children}</div>
+
+      
 
       {scrollTop === true ? (
         <ScrollLink

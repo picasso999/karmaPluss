@@ -45,7 +45,7 @@ const Footer = () => {
                 <div className="footer-widget__links-wrap">
                   <div className="footer-widget">
                     <h1 className="footer-widget__title">Follow/ Subscribe/ Like Us</h1>
-                    <div class="g-ytsubscribe" data-channelid="UCfFC8U8_ZanYSAW27kLNaTg" data-layout="full" data-count="hidden"></div>
+                    <div className="g-ytsubscribe" data-channelid="UCfFC8U8_ZanYSAW27kLNaTg" data-layout="full" data-count="hidden"></div>
                     <ul className="list-unstyled footer-widget__links-list">
                       <li>
                         <a href="https://www.facebook.com/pluss.karma.1">Facebook

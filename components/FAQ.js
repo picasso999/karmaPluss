@@ -27,12 +27,12 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="What all features does Karma Pluss contains?"
-            content="As we have already explained in our launching website (above), we have added Carbon Footprint to know your Green House Gas Emissions and ways to avoid or reduce it. We have added, self development tasks/ Challenges for users to help themselves, others and nature by improving in holistic way. We have added, recycle feature for users to recycle their waste or products that they don't want. We have added, Organic &amp; healthy lifestyle choices for people to know, track and buy items in most calculated, healthiest way possible. Lot more features are on the way."
+            content="As we have already explained in our launching website (above), we have added Carbon Footprint to know your Green House Gas Emissions and ways to avoid or reduce it. We have added, Self Development Tasks/ Challenges for users to help themselves, others and nature by improving in holistic way. We have added, recycle feature for users to recycle their waste or products that they don't want. We have added, Organic &amp; Healthy Lifesyle choices for people to know, track and buy items in most calculated, healthiest way possible. Lot more features are on the way."
             status={false}
           />
           <AccordionItem
             title="How Karma Points help in Karma Pluss App?"
-            content="Karma points can be earned by finishing tasks, donating trees, donating for social causes, buying groceries (organic), sharing on social media, reducing carbon footprint. Gain 'Karma Points' for every activity you do over in our APP and 'EARN' lots of BENEFITS..."
+            content="Karma points can be earned by finishing tasks, donating trees, donating for social causes, buying groceries (organic), sharing on social media, reducing Carbon Footprint. Gain 'Karma Points' for every activity you do over in our APP and 'EARN' lots of BENEFITS..."
             status={false}
           />
           <AccordionItem

@@ -5,17 +5,32 @@ import ModalVideo from "react-modal-video";
 // import {Redirect } from 'react-router-dom';
 // import Popup from 'reactjs-popup';
 
+// import Drawer from 'react-drag-drawer';
+// import swal from 'sweetalert';
+import swal from '@sweetalert/with-react';
+
+
 
 import BannerShape from "../assets/images/shapes/banner-shape-1-1.png";
 import BannerBG from "../assets/images/resources/banner-image-1-1.jpg";
 import BannerMoc from "../assets/images/resources/banner-moc-1-1.png";
+import LogoKP from "../assets/images/thumbnail.png";
+import MalaysiaWish from "../assets/images/resources/MalaysiaIndependenceDayKP.png";
 
 
 const Banner = () => {
   const [open, setOpen] = useState({
-    isOpen: false,
+    isOpen: false
+    // toggle: true
     // redirect: false
   });
+
+ 
+
+
+
+ 
+
   const openModal = () => {
     setOpen({
       isOpen: true,
@@ -32,6 +47,15 @@ const Banner = () => {
 // const handleClick = () => {
 //   history.push("/home");
 // }
+// {swal("Hello world!")}
+swal(<img src={MalaysiaWish} className="banner-one checkSize" alt="Karma Pluss Wishes Malaysia Independence Day" />, {buttons: false, className: "modalBox"}
+  
+    
+  
+)
+
+
+
 
 
   return (
@@ -42,6 +66,8 @@ const Banner = () => {
         style={{ backgroundImage: `url(${BannerBG})` }}
       ></div>
       <div className="container">
+
+      
         <ModalVideo
           channel="youtube"
           isOpen={open.isOpen}
@@ -51,6 +77,7 @@ const Banner = () => {
         <div onClick={openModal} className="banner-one__video video-popup">
           <i className="fa fa-play"></i>
         </div>
+       
         <div className="banner-one__moc">
           <img
             src={BannerMoc}
@@ -59,6 +86,7 @@ const Banner = () => {
             alt="Karma Pluss Productivity Benefits and Healthy Lifestyle"
           />
         </div>
+        <img src={LogoKP} className="wow logoStyle" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
         <div className="row">
           <div className="col-lg-7">
             <div className="banner-one__content">

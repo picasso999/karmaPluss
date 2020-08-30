@@ -883,6 +883,61 @@ hr {
 # Banner
 --------------------------------------------------------------*/
 
+.logoStyle {
+  margin-bottom: 30px;
+  margin-top: -150px;
+}
+
+@media (max-width: 500px) {
+  .logoStyle {
+    margin-bottom: 30px;;
+  
+    margin-top: 10px;
+    margin-left: 10%;
+  }
+
+  .checkSize {
+    margin-top: -200px;
+    width: 300px;
+
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 800px) {
+  .logoStyle {
+    margin-bottom: 30px;;
+  
+    margin-top: 20px;
+    margin-left: 25%;
+  }
+
+  .checkSize {
+    margin-top: -200px;
+    width: 300px;
+    
+  }
+}
+
+@media (max-width: 290px) {
+  .logoStyle {
+    margin-bottom: 30px;;
+    height: 160px;
+    width: 220px;
+    margin-top: 10px;
+    /* margin-left: 10%; */
+  }
+
+  .checkSize {
+    margin-top: -200px;
+    width: 200px;
+
+  }
+}
+
+.checkSize {
+  margin-top: -200px;
+}
+
 .banner-one {
   padding-top: 280px;
   position: relative;
