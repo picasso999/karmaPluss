@@ -22,7 +22,7 @@ const FAQ = (props) => {
           />
           <AccordionItem
             title="Karma Pluss is available on App store?"
-            content="Yes, we are planning to launch application both on IOS, Android Platform. Also, we will release a web application version of the Karma Pluss app. It becomes east for any user to access from any electronic devices."
+            content="Yes, we are planning to launch application both on IOS, Android Platform. Also, we will release a web application version of the Karma Pluss app. It becomes easy for any user to access from any electronic devices."
             status={true}
           />
           <AccordionItem
