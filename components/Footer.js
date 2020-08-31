@@ -36,11 +36,12 @@ const Footer = () => {
                     <img src={FooterLogo} width="279" alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
                   </a>
                   <p>
-                  Karma Pluss helps you in becoming <br/>"Best version of Yourself" by guiding you <br/>in doing good deeds to maximize your mind, body, soul potential.
-                  <br/>
-                  <br/>
-                  <strong>Headquarters:</strong><br/>
-                  <strong>Karma Pluss Sdn. Bhd.</strong><br/>
+                  Karma Pluss helps you in becoming <br/>"Best version of Yourself" by guiding you <br/>in doing good deeds to maximize your mind, body, soul potential.</p>
+                  
+                  <p>
+                  <strong>Headquarters:</strong></p>
+                  <p><strong>Karma Pluss Sdn. Bhd.</strong></p>
+                  <p>
                   Level 17, Top Glove Tower,<br/>
                   No. 16, Persiaran Setia Dagang,<br/>
                   Setia Alam , Seksyen U13,<br/>

@@ -15,7 +15,7 @@ import BannerShape from "../assets/images/shapes/banner-shape-1-1.png";
 import BannerBG from "../assets/images/resources/banner-image-1-1.jpg";
 import BannerMoc from "../assets/images/resources/banner-moc-1-1.png";
 import LogoKP from "../assets/images/thumbnail.png";
-import MalaysiaWish from "../assets/images/resources/MalaysiaIndependenceDayKP.png";
+import MalaysiaWish from "../assets/images/resources/MalaysiaIndependenceDayKP.jpg";
 
 
 const Banner = () => {
@@ -28,8 +28,6 @@ const Banner = () => {
  
 
 
-
- 
 
   const openModal = () => {
     setOpen({

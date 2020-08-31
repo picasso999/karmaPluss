@@ -888,7 +888,12 @@ hr {
   margin-top: -150px;
 }
 
-@media (max-width: 500px) {
+
+.checkSize {
+  margin-top: -240px;
+}
+
+@media screen and (min-width: 301px) and  (max-width: 500px) {
   .logoStyle {
     margin-bottom: 30px;;
   
@@ -897,9 +902,13 @@ hr {
   }
 
   .checkSize {
-    margin-top: -200px;
-    width: 300px;
+    margin-top: -150px;
+    width: 280px;
 
+  }
+
+  .modalBox {
+    height: 500px;
   }
 }
 
@@ -912,9 +921,13 @@ hr {
   }
 
   .checkSize {
-    margin-top: -200px;
+    margin-top: -100px;
     width: 300px;
     
+  }
+
+  .modalBox {
+    height: 550px;
   }
 }
 
@@ -922,7 +935,7 @@ hr {
   .logoStyle {
     margin-bottom: 30px;;
     height: 160px;
-    width: 220px;
+    width: 200px;
     margin-top: 10px;
     /* margin-left: 10%; */
   }
@@ -934,9 +947,6 @@ hr {
   }
 }
 
-.checkSize {
-  margin-top: -200px;
-}
 
 .banner-one {
   padding-top: 280px;
@@ -4025,7 +4035,8 @@ hr {
 
 .team-one__single p {
   color: #737789;
-  margin: 0;
+  margin: 5px;
+  /* padding: 5px; */
   line-height: 1em;
   font-size: 14px;
   margin-top: 12px;
