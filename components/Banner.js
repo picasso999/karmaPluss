@@ -7,7 +7,7 @@ import ModalVideo from "react-modal-video";
 
 // import Drawer from 'react-drag-drawer';
 // import swal from 'sweetalert';
-import swal from '@sweetalert/with-react';
+// import swal from '@sweetalert/with-react';
 
 
 
@@ -15,7 +15,7 @@ import BannerShape from "../assets/images/shapes/banner-shape-1-1.png";
 import BannerBG from "../assets/images/resources/banner-image-1-1.jpg";
 import BannerMoc from "../assets/images/resources/banner-moc-1-1.png";
 import LogoKP from "../assets/images/thumbnail.png";
-import MalaysiaWish from "../assets/images/resources/MalaysiaIndependenceDayKP.jpg";
+// import MalaysiaWish from "../assets/images/resources/MalaysiaIndependenceDayKP.jpg";
 
 
 const Banner = () => {
@@ -46,11 +46,11 @@ const Banner = () => {
 //   history.push("/home");
 // }
 // {swal("Hello world!")}
-swal(<img src={MalaysiaWish} className="banner-one checkSize" alt="Karma Pluss Wishes Malaysia Independence Day" />, {buttons: false, className: "modalBox"}
+// swal(<img src={MalaysiaWish} className="banner-one checkSize" alt="Karma Pluss Wishes Malaysia Independence Day" />, {buttons: false, className: "modalBox"}
   
     
   
-)
+// )
 
 
 
