@@ -29,11 +29,11 @@ const MobileMenu = () => {
             {/* <a href="tel:888-999-0000">888 999 0000</a> */}
           </p>
           <div className="side-menu__social">
-            <a href="https://www.facebook.com/pluss.karma.1">
+            <a href="https://www.facebook.com/karmapluss">
               <i className="fab fa-facebook"></i>
             </a>
             
-            <a href="https://www.instagram.com/karmapluss_/">
+            <a href="https://www.instagram.com/karmapluss1/">
               <i className="fab fa-instagram"></i>
             </a>
             

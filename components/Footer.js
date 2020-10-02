@@ -57,7 +57,7 @@ const Footer = () => {
                     <div className="g-ytsubscribe" data-channelid="UCfFC8U8_ZanYSAW27kLNaTg" data-layout="full" data-count="hidden"></div>
                     <ul className="list-unstyled footer-widget__links-list">
                       <li>
-                        <a href="https://www.facebook.com/pluss.karma.1">Facebook
+                        <a href="https://www.facebook.com/karmapluss">Facebook
                           {/* <i className="fab fa-facebook-square"></i> */}
                         </a>
                       </li>
@@ -67,7 +67,7 @@ const Footer = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.instagram.com/karmapluss_/">Instagram
+                        <a href="https://www.instagram.com/karmapluss1/">Instagram
                           {/* <i className="fab fa-instagram"></i> */}
                         </a>
                       </li>
@@ -133,11 +133,11 @@ const Footer = () => {
                   <div className="footer-widget__social">
                     
           
-                  <a href="https://www.facebook.com/pluss.karma.1">
+                  <a href="https://www.facebook.com/karmapluss">
               <i className="fab fa-facebook-square"></i>
             </a>
             
-            <a href="https://www.instagram.com/karmapluss_/">
+            <a href="https://www.instagram.com/karmapluss1/">
               <i className="fab fa-instagram"></i>
             </a>
             
