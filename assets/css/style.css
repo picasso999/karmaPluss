@@ -38,10 +38,10 @@ font-family: 'Quicksand', sans-serif;
 
 :root {
   --thm-font: "Quicksand", sans-serif;
-  --thm-base: #fec20f;
-  --thm-base-rgb: 255,204,0;
-  --thm-primary: #F5B842;
-  --thm-primary-rgb: 238,232,70;
+  --thm-base:#096A40;
+  --thm-base-rgb: 9, 106, 64;
+  --thm-primary: #52EA63;
+  --thm-primary-rgb: 82, 234, 99;
   --thm-black: #252c4b;
   --thm-black-rgb: 37, 44, 75;
   /* #EEE846 */
