@@ -51,7 +51,7 @@ const Contact = () => {
           >
             <div className="my-auto">
               <div className="contact-one__image">
-                <img src={ContactImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" />
+                <img src={ContactImage} alt="Karma Pluss Productivity Benefits and Healthy Lifestyle" /> 
               </div>
             </div>
           </div>

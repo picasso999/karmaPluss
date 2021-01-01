@@ -33,7 +33,7 @@ const HomePage = () => (
     
     <Preloader />
 
-    <Layout pageTitle="Karma Pluss | Discover 'The Best' in You">
+    <Layout pageTitle="Karma Pluss | Builds a 'Healthy' World">
       <Header
         btnClass="main-nav__btn"
         extraClassName="site-header-one__fixed-top"
