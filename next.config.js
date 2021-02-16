@@ -1,6 +1,7 @@
 const withImages = require('next-images')
-module.exports = {
-  withImages();
+module.exports = withImages(),
+{
+  
   async redirects() {
     return [
       {
